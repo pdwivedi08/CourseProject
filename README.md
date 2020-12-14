@@ -16,6 +16,7 @@ https://youtu.be/H1xQwJkV5cA
 Harsangeet Kaur (kaur13@illinois.edu): Team Member
 Pradeep Dwivedi (pkd3@illinois.edu): Team Lead
 
+Our submission can be found in the spreadsheet available in CMT, with the ID: pkd3@illinois.edu
 Our submission on the Leaderboard in Livelab can be found for the ID: pdwivedi08  
 
 
